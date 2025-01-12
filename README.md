@@ -44,10 +44,10 @@ The model is trained using the following techniques:
 
 ## Usage
 1. **Fine-Tuning the Model**:
-   - Open the `finetuning.ipynb` notebook and follow the instructions to fine-tune the ViT model on the FER2013 dataset.
+   - Open the `VIT-MODEL-FER2013-Finetune.ipynb` notebook and follow the instructions to fine-tune the ViT model on the FER2013 dataset.
 
 2. **Running the App**:
-   - Open the `app.ipynb` notebook and use the trained model to predict emotions from images.
+   - Open the `ViT-FER2013.ipynb` notebook and use the trained model to predict emotions from images.
 
 ## Results
 The fine-tuned model achieves a **test accuracy of 70.34%** on the FER2013 dataset.

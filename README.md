@@ -38,9 +38,9 @@ The model is trained using the following techniques:
 - **Early Stopping**: Training stops if the validation loss does not improve for 3 consecutive epochs.
 
 ## Repository Contents
-- **`app.ipynb`**: Jupyter notebook for running an app that uses the trained model for emotion recognition.
-- **`finetuning.ipynb`**: Jupyter notebook for fine-tuning the Vision Transformer (ViT) model on the FER2013 dataset.
-- **`model/vit_fer2013.pth`**: Trained model weights.
+- **`ViT-FER2013.ipynb`**: Jupyter notebook for running an app that uses the trained model for emotion recognition.
+- **`VIT-MODEL-FER2013-Finetune.ipynb`**: Jupyter notebook for fine-tuning the Vision Transformer (ViT) model on the FER2013 dataset.
+
 
 ## Usage
 1. **Fine-Tuning the Model**:

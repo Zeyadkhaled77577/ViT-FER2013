@@ -7,9 +7,9 @@ This project implements a Vision Transformer (ViT) model for emotion recognition
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
-- [Results](#results)
-- [Installation](#installation)
+- [Repository Contents](#repository-contents)
 - [Usage](#usage)
+- [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -51,3 +51,7 @@ The model is trained using the following techniques:
 
 ## Results
 The fine-tuned model achieves a **test accuracy of 70.34%** on the FER2013 dataset.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+

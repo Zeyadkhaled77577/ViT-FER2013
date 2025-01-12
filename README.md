@@ -11,7 +11,7 @@ This project implements a Vision Transformer (ViT) model for emotion recognition
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 This project explores the use of Vision Transformers (ViT) for emotion recognition on the FER2013 dataset. The ViT model is fine-tuned using PyTorch, and dynamic learning rate scheduling is applied to optimize training. Data augmentation techniques are also used to improve generalization.
